@@ -1,2 +1,2 @@
 # HTML
-Hands on Programs
+Hands on Exercise
